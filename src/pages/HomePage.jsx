@@ -66,7 +66,7 @@ const HomePage = ({ isIOS }) => {
             <p className="text-pink-800 italic">
              "Selamat Ulang Tahun Sayangkuhh🥰, Untuk calon istriku tercinta, dihari ini Mas ingin mengucapkan Happy Milad sayangkuh, Terimakasih sudah Ada dihidup mas menjadi cahaya dalam hidup mas, Setiap detik bersamamu adalah Anugerah terindah di hidup Mas. "
             </p>
-            <p className="mt-4 text-right text-pink-600 font-medium">- Deny</p>
+            <p className="mt-4 text-right text-pink-600 font-medium">- langit</p>
           </div>
         </motion.div>
 
