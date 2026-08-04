@@ -63,7 +63,7 @@ const BirthdayCountdown = ({ isIOS }) => {
       >
         <h1 className="text-4xl md:text-5xl font-bold text-pink-600 mb-8">
           The Birthday of{" "}
-          <span className="text-purple-600">Dikdik Alimudin Dzulyadaen Ijazi</span>
+          <span className="text-purple-600">Liana Armisa</span>
         </h1>
 
         <div className="mb-8">
@@ -109,10 +109,10 @@ const BirthdayCountdown = ({ isIOS }) => {
 
         <div className="bg-white p-6 rounded-xl shadow-lg mb-8 border border-pink-100">
           <h3 className="text-xl font-semibold text-purple-600 mb-2">
-            16 Juli 2026
+            05 Agustus 2026
           </h3>
           <p className="text-pink-600">
- Tanggal dimana sang pemilk tulang rusukku hadir di dunia❤
+ Tanggal dimana senyumanmu akan menerangi hariku🥹
           </p>
         </div>
 

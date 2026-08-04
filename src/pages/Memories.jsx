@@ -34,31 +34,28 @@ const Memories = ({ isIOS }) => {
           className="bg-white bg-opacity-90 backdrop-blur-sm p-6 rounded-xl shadow-lg mb-8 border border-pink-100"
         >
          <h2 className="text-2xl font-semibold text-rose-600 mb-4">
-           Satu hal lagi yang ingin aku sampaikan di hari spesialmu.
+           Permintaan Maafku di Hari Ulang Tahunmu
          </h2>
          
          <div className="text-left text-pink-800 space-y-4 leading-relaxed">
            <p>
-             💌 <strong>Maaf ya sayang...</strong>
+             💌 <strong>Maaf ya, Sayang...</strong>
            </p>
            <motion.p
              initial={{ opacity: 0, y: 20 }}
              animate={{ opacity: 1, y: 0 }}
              transition={{ duration: 1, delay: 0.6 }}
            >
-            Maaf karena kita masih harus LDR, jadi aku belum bisa ada di samping kamu untuk merayakan hari bahagiamu. Maaf kalau selama ini aku masih sering ngambek, kadang memilih diam, atau tanpa sadar membuat kamu lelah dengan sikapku.
-
+             Maaf kalau selama dengan mas banyak merepotkan adek. Maaf kalau mas belum cukup baik dan selalu membuat adek marah kesel. Mungkin mas sangat biasa saja dibandingkan laki-laki lain yang ada disekitar adek.
            </motion.p>
            <motion.p
              initial={{ opacity: 0, y: 20 }}
              animate={{ opacity: 1, y: 0 }}
              transition={{ duration: 1, delay: 0.6 }}
            >
-            Terima kasih karena kamu selalu sabar menghadapi aku dan tetap bertahan sampai hari ini. Aku tahu aku belum sempurna, tapi aku janji akan terus belajar menjadi pasangan yang lebih baik untuk kamu. 
-Semoga jarak ini hanya sementara. Aku berharap suatu saat nanti kita nggak perlu lagi merayakan ulang tahun dari kejauhan, tapi bisa saling menggenggam tangan dan mengucapkannya secara langsung. Aku sayang banget sama kamu. 💋🥰😍
-
+            But, i dont want to be them and they cant be me. Maaf jika bersama mas, mas ngeselin adek. Terimakasih yaa telah menjadi bagian baik dan berharga dihidup mas. 
            </motion.p>
-    
+           
          </div>
 
         </motion.div>
@@ -157,7 +154,7 @@ Semoga jarak ini hanya sementara. Aku berharap suatu saat nanti kita nggak perlu
             transition={{ delay: 2.2 }}
             className="text-center text-pink-600 mt-6 italic text-lg"
           >
-            🌸 Bunga ini sebagai hadiah dari permintaan maaf dariku, Tolong di terima yaa 😘😘
+            🌸 Bunga ini sebagai hadiah dari permintaan maaf bubu, Sayang dudu... Tolong di terima yaa 😘😘
           </motion.p>
         )}
       </motion.div>

@@ -6,15 +6,20 @@ const SpecialWishes = ({ isIOS }) => {
   const [showHeart, setShowHeart] = useState(false);
 
   const wishes = `
-Selamat ulang tahun, sayang. 🤍
+Hey sayangku
 
-Terima kasih sudah hadir di hidupku dan menjadi salah satu alasan aku tersenyum setiap hari. Semoga di usia yang baru ini semua doa, harapan, dan cita-cita kamu satu per satu bisa terwujud. Semoga kamu selalu diberi kesehatan, kebahagiaan, rezeki yang berkah, dan selalu dalam lindungan Allah.
+ I wanna to tell you something, thanks for coming this year. Mas menyayangi adek dengan segala ketidak bisaan mas. Mas gatau kita akan berjalan sampai mana, Mas hanya ingin kita benar-benar menikmati bahagia ini tanpa harus mencemaskan akhirnya.
 
-Aku bangga punya kamu sayangku. Terima kasih karena sudah selalu berusaha, menguatkanku, dan membuat hari-hariku terasa lebih indah. Semoga hubungan kita juga semakin dewasa, semakin saling mengerti, dan semoga Allah mengizinkan kita untuk terus bersama sampai waktu yang tepat.
+Karena sudah terlalu banyak kegagalan dalam hidup mas, karena begitu rumitnya mas, yang membuat mas takut akan ending dari cerita yang sudah-sudah.
 
-Ingat ya, apa pun yang terjadi, aku akan selalu mendukungmu dan mendoakan yang terbaik untuk kamu..Semoga hari ini menjadi awal dari tahun yang penuh kebahagiaan dan keberkahan. Aamiin
+Tapi kini mas punya adek untuk tempat keluh kesah, mas punya adek untuk pulang, mas punya adek untuk tetap berjalan dengan segala yang menyakitkan disini.
 
-Happy Birthday, cintaku. Aku sayang kamu, hari ini, besok, dan sampai selamanya. ❤️
+Terimakasih yaa sudah menjadi pelengkap hari-hari orang yang keras kepala ini, sudah menjadi sabar, jangan berubah yaa, mas butuh adek. I love u more than u know.
+
+Mas juga ingin kapanpun adek butuh, mas ingin menemani dan memeluk adek disetiap kesulitan itu datang mengunjungi adek. Mas senang di buat senang dan mas senang buat adek senang.
+
+
+Happy Milad calon istriku 💕
 
 `
   return (
@@ -84,7 +89,7 @@ Happy Birthday, cintaku. Aku sayang kamu, hari ini, besok, dan sampai selamanya.
               >
                 <div className="text-[12rem] select-none text-center">❤️</div>
                 <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-white text-3xl font-bold drop-shadow-lg">
-                  Dikdik 💖
+                  Liana Armisa 💖
                 </div>
                 <div className="text-white text-lg text-center mt-4">
                  My Heart Is Only for You, Honey. 🥹
