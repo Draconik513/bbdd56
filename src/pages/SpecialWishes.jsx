@@ -6,20 +6,12 @@ const SpecialWishes = ({ isIOS }) => {
   const [showHeart, setShowHeart] = useState(false);
 
   const wishes = `
-Hey sayangku
-
- I wanna to tell you something, thanks for coming this year. Mas menyayangi adek dengan segala ketidak bisaan mas. Mas gatau kita akan berjalan sampai mana, Mas hanya ingin kita benar-benar menikmati bahagia ini tanpa harus mencemaskan akhirnya.
-
-Karena sudah terlalu banyak kegagalan dalam hidup mas, karena begitu rumitnya mas, yang membuat mas takut akan ending dari cerita yang sudah-sudah.
-
-Tapi kini mas punya adek untuk tempat keluh kesah, mas punya adek untuk pulang, mas punya adek untuk tetap berjalan dengan segala yang menyakitkan disini.
-
-Terimakasih yaa sudah menjadi pelengkap hari-hari orang yang keras kepala ini, sudah menjadi sabar, jangan berubah yaa, mas butuh adek. I love u more than u know.
-
-Mas juga ingin kapanpun adek butuh, mas ingin menemani dan memeluk adek disetiap kesulitan itu datang mengunjungi adek. Mas senang di buat senang dan mas senang buat adek senang.
-
-
-Happy Milad calon istriku 💕
+Sayangku 💖, hari ini adalah momen yang paling indah karena hari ini kamu lahir ke dunia 🎉. Aku ingin berdoa agar kamu selalu dalam lindungan Tuhan 🙏, diberi kesehatan 💪, kekuatan 🛡, dan kebahagiaan yang tiada akhir 🌈✨.
+Aku tahu hidup tidak selalu mudah 🌧, tapi aku ingin kamu tahu bahwa kamu tidak sendiri 🤝. Aku akan selalu mendukungmu 💞, menyemangati kamu 💫, dan menjadi pundakmu saat kamu lelah 😔➡💆‍♀.
+Semoga setiap langkahmu penuh keberkahan 🕌, dan setiap impianmu satu per satu menjadi kenyataan 🌠. Kamu punya hati yang tulus 💓, senyum yang menenangkan 😊, dan jiwa yang cantik luar dalam 🌹. Dunia butuh lebih banyak orang sepertimu 🌍❤.
+Aku ingin kamu tahu bahwa aku percaya padamu sepenuhnya 🙌. Kamu kuat 💥, kamu hebat 🦋, dan kamu pantas mendapatkan yang terbaik 🏆. Jangan pernah ragukan dirimu sendiri 🙅‍♀, karena kamu adalah cahaya dalam hidup banyak orang 🌟, termasuk hidupku 💘.
+Jika suatu hari kamu merasa ragu atau takut 😟, ingatlah doaku ini: Semoga kamu selalu dikelilingi orang-orang baik 👨‍👩‍👧‍👦, rezeki yang cukup 💰, dan cinta yang tulus dari semua arah 💗. Termasuk dariku 🫶.
+Aku cinta kamu ❤, dan akan selalu mencintaimu 💍.
 
 `
   return (
@@ -89,7 +81,7 @@ Happy Milad calon istriku 💕
               >
                 <div className="text-[12rem] select-none text-center">❤️</div>
                 <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-white text-3xl font-bold drop-shadow-lg">
-                  Liana Armisa 💖
+                  Imas raga dewi 💖
                 </div>
                 <div className="text-white text-lg text-center mt-4">
                  My Heart Is Only for You, Honey. 🥹
