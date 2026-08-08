@@ -165,7 +165,7 @@ const Memories = ({ isIOS }) => {
             transition={{ delay: 2.2 }}
             className="text-center text-pink-600 mt-6 italic text-lg"
           >
-            🌸 Bunga ini sebagai hadiah dari permintaan maaf mas, Tolong di terima yaa 😘😘
+            🌸 Bunga ini sebagai hadiah dari permintaan maafku, Tolong di terima yaa 😘😘
           </motion.p>
         )}
       </motion.div>
