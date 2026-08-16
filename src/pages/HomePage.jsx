@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { useNavigate } from "react-router-dom";
 import ConfettiBackground from "../components/ConfettiBackground";
 import FloatingHearts from "../components/FloatingHearts";
-import homePhoto from "../assets/images/fotohome.png";
+import heartVideo from "../assets/videos/heart-animation.mp4";
 
 const HomePage = ({ isIOS }) => {
   const navigate = useNavigate();
@@ -21,7 +21,7 @@ const HomePage = ({ isIOS }) => {
         >
           <p className="text-lg text-pink-600 pt-4">Untuk yang tersayang</p>
           <h1 className="text-4xl font-extrabold bg-gradient-to-r from-pink-600 via-pink-400 to-purple-500 text-transparent bg-clip-text drop-shadow-md">
-           Imas raga dewi
+          Siti Nuriah Gustiah
           </h1>
         </motion.div>
 
@@ -37,11 +37,16 @@ const HomePage = ({ isIOS }) => {
           className="mb-8"
         >
           <div className="w-64 h-64 mx-auto rounded-full border-4 border-pink-300 shadow-lg overflow-hidden">
-            <img
-              src={homePhoto}
-              alt="Home"
+            <video
+              autoPlay
+              loop
+              muted
+              playsInline
+              webkit-playsinline="true"
               className="w-full h-full object-cover"
-            />
+            >
+              <source src={heartVideo} type="video/mp4" />
+            </video>
           </div>
         </motion.div>
 
@@ -62,7 +67,7 @@ const HomePage = ({ isIOS }) => {
               mengucapkan... Terima kasih telah menjadi cahaya dalam hidupku.
               Setiap detik bersamamu adalah anugerah."
             </p>
-            <p className="mt-4 text-right text-pink-600 font-medium">- Fandi</p>
+            <p className="mt-4 text-right text-pink-600 font-medium">- Dede Jaelani</p>
           </div>
         </motion.div>
 
