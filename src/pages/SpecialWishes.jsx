@@ -6,12 +6,13 @@ const SpecialWishes = ({ isIOS }) => {
   const [showHeart, setShowHeart] = useState(false);
 
   const wishes = `
-Sayangku 💖, hari ini adalah momen yang paling indah karena hari ini kamu lahir ke dunia 🎉. Aku ingin berdoa agar kamu selalu dalam lindungan Tuhan 🙏, diberi kesehatan 💪, kekuatan 🛡, dan kebahagiaan yang tiada akhir 🌈✨.
-Aku tahu hidup tidak selalu mudah 🌧, tapi aku ingin kamu tahu bahwa kamu tidak sendiri 🤝. Aku akan selalu mendukungmu 💞, menyemangati kamu 💫, dan menjadi pundakmu saat kamu lelah 😔➡💆‍♀.
-Semoga setiap langkahmu penuh keberkahan 🕌, dan setiap impianmu satu per satu menjadi kenyataan 🌠. Kamu punya hati yang tulus 💓, senyum yang menenangkan 😊, dan jiwa yang cantik luar dalam 🌹. Dunia butuh lebih banyak orang sepertimu 🌍❤.
-Aku ingin kamu tahu bahwa aku percaya padamu sepenuhnya 🙌. Kamu kuat 💥, kamu hebat 🦋, dan kamu pantas mendapatkan yang terbaik 🏆. Jangan pernah ragukan dirimu sendiri 🙅‍♀, karena kamu adalah cahaya dalam hidup banyak orang 🌟, termasuk hidupku 💘.
-Jika suatu hari kamu merasa ragu atau takut 😟, ingatlah doaku ini: Semoga kamu selalu dikelilingi orang-orang baik 👨‍👩‍👧‍👦, rezeki yang cukup 💰, dan cinta yang tulus dari semua arah 💗. Termasuk dariku 🫶.
-Aku cinta kamu ❤, dan akan selalu mencintaimu 💍.
+Suamiku tersayang,  hari in adalah hari yang spesial d mana usia mu bertambah, ku doakan ki semoga slalu dalam lindungan Allah, diberi kesehatan,kekuatan, rezeky yang berlimpah dan kebahagian tiada akhir
+Aku tau hidup tidak selalu mudah, tapi aku ingin kt tau bahwa selalu ka ada disisi ta, menemani ta mulai dr 0, mendukung mu slalu, menyemangati mu, dan menjadi obat mu di saat lelah.
+Semoga setiap langkah mu penuh keberkahan, dan setiap impian ta satu persatu menjadi kenyataan, menjadi papa yang baik untuk anak kita kelak, selalu menyayangi ku dan anak ta.
+Kt tau kalau slalu ka percayai ki sepenuhnya, tulus mencintai mu, kamu suami yang hebat, cahaya dihidupku.
+Semoga kita bisa membangun rumah tangga yang hangat penuh kebahagiaan, selalu bahagia dijauhkan dari segala hal yang buruk dan slalu bersama baik suka dan duka. Bisa menjadi orang tua yang hebat dan sukses bersama.
+Terima kasih sudah menjadi suami yang selalu ku banggakan, selalu membujukku di saat marah, selalu menuruti semua kemauan ku, selalu memperhatikan ku, mencintaiku, menyayangiku,  Tetaplah seperti itu jangan ki pernah berubah.. 
+Love you suamiku, dan akan selalu mencintaimu
 
 `
   return (
@@ -81,7 +82,7 @@ Aku cinta kamu ❤, dan akan selalu mencintaimu 💍.
               >
                 <div className="text-[12rem] select-none text-center">❤️</div>
                 <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-white text-3xl font-bold drop-shadow-lg">
-                  Siti Nuriah Gustiah 💖
+                  Saddam Maulana Arief 💖
                 </div>
                 <div className="text-white text-lg text-center mt-4">
                  My Heart Is Only for You, Honey. 🥹

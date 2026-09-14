@@ -51,26 +51,21 @@ const Memories = ({ isIOS }) => {
              animate={{ opacity: 1, y: 0 }}
              transition={{ duration: 1, delay: 0.6 }}
            >
-             Maaf kalau selama ini aku pernah cuek 😞, terlalu sibuk 😔, atau kurang
-             peka sama perasaanmu 😢. Maaf kalau kadang aku bikin kamu kecewa, salah
-             paham, atau merasa sendiri 😓. Aku gak pernah berniat nyakitin kamu 🥺.
-             Semua itu karena aku manusia biasa yang masih belajar mencintaimu dengan
-             lebih baik 🤍.
+             Maaf yah sayangku klo aku ada salah, pernah kasi kecewaki atau pernah sakiti perasaan ta, dimasa lalu ataupun masa kini, terlalu sibuk atau kurang peka, maaf kan istrimu ini yang slalu ngambek sdikit sdikit marah hehhe, harap di maklumi karena selalu sensitif tapi meski begitu perasaan ku tetap mencintaimu,
            </motion.p>
            <motion.p
              initial={{ opacity: 0, y: 20 }}
              animate={{ opacity: 1, y: 0 }}
              transition={{ duration: 1, delay: 1.2 }}
            >
-             Terima kasih sudah sabar, sudah tetap di sini 🫶. Aku akan terus belajar
-             jadi lebih baik lagi... untuk kamu 💗
+             Terima kasih sudah sabar menghadapiku, selalu membersamaiku, aku akan terus belajar menjadi istri yang baik lagi.. untuk mu..
            </motion.p>
            <motion.p
              initial={{ opacity: 0, y: 20 }}
              animate={{ opacity: 1, y: 0 }}
              transition={{ duration: 1, delay: 1.8 }}
            >
-             🙏🏻 Maaf ya, dan makasih karena kamu tetap percaya sama aku.
+             Maaf yah, dan terimakasih karena kamu selalu ada untuk ku
            </motion.p>
          </div>
 
