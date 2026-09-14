@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { useState } from "react";
 import vidioBunga from "../assets/videos/vidioBungadudu.mp4";
-import memoriesVideo from "../assets/videos/memories_bubu_dudu.mp4";
+import couplePhoto from "../assets/images/couple.jpg";
 
 const Memories = ({ isIOS }) => {
   const [flowerBloom, setFlowerBloom] = useState(false);
@@ -19,17 +19,11 @@ const Memories = ({ isIOS }) => {
         </h1>
 
         <motion.div whileHover={{ scale: isIOS ? 1 : 1.02 }} className="mb-8">
-          <video
-            autoPlay
-            loop
-            muted
-            playsInline
-            webkit-playsinline="true"
-            className="w-full max-w-md mx-auto rounded-xl shadow-2xl border-4 border-white"
-            style={{ transform: "translateZ(0)" }}
-          >
-            <source src={memoriesVideo} type="video/mp4" />
-          </video>
+          <img
+            src={couplePhoto}
+            alt="couple"
+            className="w-full max-w-md mx-auto rounded-xl shadow-2xl border-4 border-white object-cover"
+          />
         </motion.div>
 
         <motion.div
